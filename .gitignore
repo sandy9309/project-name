@@ -1,0 +1,15 @@
+# 資料庫數據
+docker/mongo-data/
+
+# 後端依賴與環境變數
+backend/node_modules/
+backend/.env
+
+# 前端依賴與打包結果
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# 系統檔案
+.DS_Store
+Thumbs.db
